@@ -24,7 +24,7 @@ class admin extends Component {
                 address: pendingCustomer
             })
         }
-        cons
+        
         return { pendingCustomers };
     }
 
